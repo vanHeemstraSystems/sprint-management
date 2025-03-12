@@ -1,4 +1,5 @@
-# Building Our Application
+Building Our Application
+=========================
 
 .. toctree::
    :maxdepth: 1
