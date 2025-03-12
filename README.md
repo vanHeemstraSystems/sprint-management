@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+sprint-management
+# Sprint Management
 
 > Slugline
 
