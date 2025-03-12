@@ -50,12 +50,12 @@ For example:
 
 4th Quarter of 2025: 
 
-- Sprint 1: Monday .. MM 2025 - Monday .. MM 2025 
-- Sprint 2: Monday .. MM 2025 - Monday .. MM 2025
-- Sprint 3: Monday .. MM 2025 - Monday .. MM 2025
-- Sprint 4: Monday .. MM 2025 - Monday .. MM 2025
-- Sprint 5: Monday .. MM 2025 - Monday .. MM 2025
-- Sprint 6: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 1: Monday 29 September 2025 - Monday 13 October 2025 
+- Sprint 2: Monday 13 October 2025 - Monday 27 October 2025
+- Sprint 3: Monday 27 October 2025 - Monday 10 November 2025
+- Sprint 4: Monday 10 November 2025 - Monday 24 November 2025
+- Sprint 5: Monday 24 November 2025 - Monday 08 December 2025
+- Sprint 6: Monday 08 December 2025 - Monday 22 December 2025
 
 Make the Sprint event and "All day" event.
 
