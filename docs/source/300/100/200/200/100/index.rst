@@ -32,30 +32,30 @@ For example:
 
 2nd Quarter of 2025: 
 
-- Sprint 1: 
-- Sprint 2:
-- Sprint 3:
-- Sprint 4:
-- Sprint 5:
-- Sprint 6:
+- Sprint 1: Monday 31 March 2025 - Monday 14 April 2025
+- Sprint 2: Monday 14 April 2025 - Monday 28 April 2025
+- Sprint 3: Monday 28 April 2025 - Monday 12 May 2025
+- Sprint 4: Monday 12 May 2025 - Monday 26 May 2025
+- Sprint 5: Monday 26 May 2025 - Monday 09 June 2025
+- Sprint 6: Monday 09 June 2025 - Monday 23 June 2025
 
 3rd Quarter of 2025: 
 
-- Sprint 1: 
-- Sprint 2:
-- Sprint 3:
-- Sprint 4:
-- Sprint 5:
-- Sprint 6:
+- Sprint 1: Monday .. MM 2025 - Monday .. MM 2025 
+- Sprint 2: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 3: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 4: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 5: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 6: Monday .. MM 2025 - Monday .. MM 2025
 
 4th Quarter of 2025: 
 
-- Sprint 1: 
-- Sprint 2:
-- Sprint 3:
-- Sprint 4:
-- Sprint 5:
-- Sprint 6:
+- Sprint 1: Monday .. MM 2025 - Monday .. MM 2025 
+- Sprint 2: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 3: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 4: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 5: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 6: Monday .. MM 2025 - Monday .. MM 2025
 
 Make the Sprint event and "All day" event.
 
