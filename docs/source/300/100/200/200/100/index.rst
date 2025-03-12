@@ -23,39 +23,39 @@ For example:
 
 1st Quarter of 2025: 
 
-- Sprint 1: Monday 06 January 2025 - Monday 20 January 2025
-- Sprint 2: Monday 20 January 2025 - Monday 03 February 2025
-- Sprint 3: Monday 03 February 2025 - Monday 17 February 2025
-- Sprint 4: Monday 17 February 2025 - Monday 03 March 2025
-- Sprint 5: Monday 03 March 2025 - Monday 17 March 2025
-- Sprint 6: Monday 17 March 2025 - Monday 31 March 2025
+- Sprint 1: Monday 06 January 2025 - Monday 20 January 2025 [Week Nrs 02-03]
+- Sprint 2: Monday 20 January 2025 - Monday 03 February 2025 [Week Nrs 04-05]
+- Sprint 3: Monday 03 February 2025 - Monday 17 February 2025 [Week Nrs 06-07]
+- Sprint 4: Monday 17 February 2025 - Monday 03 March 2025 [Week Nrs 08-09]
+- Sprint 5: Monday 03 March 2025 - Monday 17 March 2025 [Week Nrs 10-11]
+- Sprint 6: Monday 17 March 2025 - Monday 31 March 2025 [Week Nrs 12-13]
 
 2nd Quarter of 2025: 
 
-- Sprint 1: Monday 31 March 2025 - Monday 14 April 2025
-- Sprint 2: Monday 14 April 2025 - Monday 28 April 2025
-- Sprint 3: Monday 28 April 2025 - Monday 12 May 2025
-- Sprint 4: Monday 12 May 2025 - Monday 26 May 2025
-- Sprint 5: Monday 26 May 2025 - Monday 09 June 2025
-- Sprint 6: Monday 09 June 2025 - Monday 23 June 2025
+- Sprint 1: Monday 31 March 2025 - Monday 14 April 2025 [Week Nrs 14-15]
+- Sprint 2: Monday 14 April 2025 - Monday 28 April 2025 [Week Nrs 16-17]
+- Sprint 3: Monday 28 April 2025 - Monday 12 May 2025 [Week Nrs 18-19]
+- Sprint 4: Monday 12 May 2025 - Monday 26 May 2025 [Week Nrs 20-21]
+- Sprint 5: Monday 26 May 2025 - Monday 09 June 2025 [Week Nrs 22-23]
+- Sprint 6: Monday 09 June 2025 - Monday 23 June 2025 [Week Nrs 24-25]
 
 3rd Quarter of 2025: 
 
-- Sprint 1: Monday 23 June 2025 - Monday 07 July 2025 
-- Sprint 2: Monday 07 July 2025 - Monday 21 July 2025
-- Sprint 3: Monday 21 July 2025 - Monday 04 August 2025
-- Sprint 4: Monday 04 August 2025 - Monday 18 August 2025
-- Sprint 5: Monday 18 August 2025 - Monday 01 September 2025
-- Sprint 6: Monday 01 September 2025 - Monday 15 September 2025
+- Sprint 1: Monday 23 June 2025 - Monday 07 July 2025 [Week Nrs 26-27]
+- Sprint 2: Monday 07 July 2025 - Monday 21 July 2025 [Week Nrs 28-29]
+- Sprint 3: Monday 21 July 2025 - Monday 04 August 2025 [Week Nrs 30-31]
+- Sprint 4: Monday 04 August 2025 - Monday 18 August 2025 [Week Nrs 32-33]
+- Sprint 5: Monday 18 August 2025 - Monday 01 September 2025 [Week Nrs 34-35]
+- Sprint 6: Monday 01 September 2025 - Monday 15 September 2025 [Week Nrs 36-37]
 
 4th Quarter of 2025: 
 
-- Sprint 1: Monday 29 September 2025 - Monday 13 October 2025 
-- Sprint 2: Monday 13 October 2025 - Monday 27 October 2025
-- Sprint 3: Monday 27 October 2025 - Monday 10 November 2025
-- Sprint 4: Monday 10 November 2025 - Monday 24 November 2025
-- Sprint 5: Monday 24 November 2025 - Monday 08 December 2025
-- Sprint 6: Monday 08 December 2025 - Monday 22 December 2025
+- Sprint 1: Monday 15 September 2025 - Monday 29 September 2025 [Week Nrs 38-39]
+- Sprint 2: Monday 29 September 2025 - Monday 13 October 2025 [Week Nrs 40-41]
+- Sprint 3: Monday 13 October 2025 - Monday 27 October 2025 [Week Nrs 42-43]
+- Sprint 4: Monday 27 October 2025 - Monday 10 November 2025 [Week Nrs 44-45]
+- Sprint 5: Monday 10 November 2025 - Monday 24 November 2025 [Week Nrs 46-47]
+- Sprint 6: Monday 24 November 2025 - Monday 08 December 2025 [Week Nrs 48-49]
 
 Make the Sprint event and "All day" event.
 
