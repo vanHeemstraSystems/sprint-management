@@ -41,12 +41,12 @@ For example:
 
 3rd Quarter of 2025: 
 
-- Sprint 1: Monday .. MM 2025 - Monday .. MM 2025 
-- Sprint 2: Monday .. MM 2025 - Monday .. MM 2025
-- Sprint 3: Monday .. MM 2025 - Monday .. MM 2025
-- Sprint 4: Monday .. MM 2025 - Monday .. MM 2025
-- Sprint 5: Monday .. MM 2025 - Monday .. MM 2025
-- Sprint 6: Monday .. MM 2025 - Monday .. MM 2025
+- Sprint 1: Monday 23 June 2025 - Monday 07 July 2025 
+- Sprint 2: Monday 07 July 2025 - Monday 21 July 2025
+- Sprint 3: Monday 21 July 2025 - Monday 04 August 2025
+- Sprint 4: Monday 04 August 2025 - Monday 18 August 2025
+- Sprint 5: Monday 18 August 2025 - Monday 01 September 2025
+- Sprint 6: Monday 01 September 2025 - Monday 15 September 2025
 
 4th Quarter of 2025: 
 
