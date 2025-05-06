@@ -8,5 +8,4 @@ The Product Owner proposes how the product could increase its value and utility 
 
 > As a [persona], I want [feature], so that [outcome].
 
-
-MORE ...
+So why do I write my sprint goals as user stories? In short, because the team is very familiar with user stories and they capture the outcome we’re after while still allowing us to pivot mid-sprint to meet our goal. We use planning poker to ensure everyone gets a say and feels not just that they have the safety to participate but also the opportunity.
