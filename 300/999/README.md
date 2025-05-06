@@ -6,4 +6,7 @@ Source: [Why I write my sprint goals as user stories](https://medium.com/@skibin
 
 The Product Owner proposes how the product could increase its value and utility in the current Sprint. The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders.
 
+> As a [persona], I want [feature], so that [outcome].
+
+
 MORE ...
