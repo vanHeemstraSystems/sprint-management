@@ -21,7 +21,7 @@ Text
 
 Generated with [Rytr](https://app.rytr.me)
 
-![Image](https://github.com/user-attachments/assets/d2cfaa1f-46f6-40f0-8a6a-8beba8edc51f)
+<img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/63380f4e-7ff5-442c-a3b3-fd6b6d581e4b" />
 
 <table>
 <th colspan="5">Summarize with:</th><tr/> 
