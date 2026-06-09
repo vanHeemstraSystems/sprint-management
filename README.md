@@ -32,6 +32,8 @@ Generated with [Rytr](https://app.rytr.me)
 <td><a href="https://claude.ai/new?q=please+read+and+summarize+the+content+from+this+url+https://github.com/vanHeemstraSystems/sprint-management/">Claude.ai</a></td>  
 </table>
 
+> 📐 This repository is part of the [Business Model & Strategy Framework](https://github.com/vanHeemstraSystems/business-model-and-strategy-framework)
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
